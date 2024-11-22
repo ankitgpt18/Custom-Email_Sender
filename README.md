@@ -1,4 +1,6 @@
-Custom email-sending application with a front-end dashboard that performs the following:
+Custom email-sending application with a front-end dashboard that performs the following: 
+
+(under development)
 
 1. Reads data from a Google Sheet or CSV file for email customization.
 2. Allows users to connect their email account.
